@@ -43,6 +43,6 @@ int main() {
             count += 1;
         }
     }
-    
+        
     std::cout << count;
 }
